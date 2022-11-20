@@ -1,4 +1,4 @@
-**What are the most used words in the Beatles' catalog?**
+# What are the most used words in the entire Beatles discography?
 
 I thought this would be fun. The Beatles is my favourite band _of all times_. The other day I was wondering what could be the most used word in the entire catalog, excluding of course commons ones like articles, prepositions, pronouns, etc.
 I think the Beatles were a bit obsessed with money, and I was wondering in particular how often it appears. 
